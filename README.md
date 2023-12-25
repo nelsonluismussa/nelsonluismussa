@@ -54,7 +54,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nelsonluismussa&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 &nbsp;
 &nbsp;
