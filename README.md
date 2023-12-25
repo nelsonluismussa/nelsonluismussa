@@ -19,7 +19,7 @@
 #### Education:
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
-![hotmart](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+![hotmart](https://img.shields.io/badge/hotmart-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 
 #### Main Stack:
