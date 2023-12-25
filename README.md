@@ -1,4 +1,4 @@
-# Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia! 
+# Olá eu sou Nelson Luís Mussa, criadora de conteúdo de programação e tecnologia! 
 
 <p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando Django ao desenvolvimento frontend, <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.
 </p>&nbsp;
