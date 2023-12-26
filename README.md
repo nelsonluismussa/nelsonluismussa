@@ -1,6 +1,6 @@
-# Olá eu sou Nelson Luís Mussa, Desenvolvedor de software e Engenheiro de Redes de computadores e criador de conteúdos de programação e tecnologia! 
+# Hello, I'm Nelson Luís Mussa, a software developer and computer network engineer who creates programming and technology content! 
 
-<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br><br> Do desenvolvimento backend usando Django ao desenvolvimento frontend, <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>desenvolvedor full stack de nível médio</strong> focado em desenvolvimento web.
+<p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development using Django to frontend development, <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>mid-level full stack developer</strong> focused on web development.
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
