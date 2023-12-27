@@ -11,8 +11,7 @@
  &nbsp;
  &nbsp;
 
-(https://github-readme-stats.vercel.app/api?username=nelsonluismussa)](https://github.com/nelsonluismussa/github-readme-stats)
-
+ 
 ## My Skills
 
 #### Education:
