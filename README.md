@@ -1,6 +1,7 @@
 # Hello, I'm Nelson Luís Mussa, a software developer and computer network engineer who creates programming and technology content! 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonluismussa&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonluismussa&show_icons=true&theme=radical)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=nelsonluismussa&show_icons=true&theme=radical">
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=nelsonluismussa"/>
 
 
