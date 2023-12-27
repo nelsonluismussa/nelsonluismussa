@@ -1,5 +1,5 @@
 # Hello, I'm Nelson Luís Mussa, a software developer and computer network engineer who creates programming and technology content! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonluismussa)](https://github.com/nelsonluismussa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonluismussa&layout=compact)](https://github.com/nelsonluismussa/github-readme-stats&layout=compact)
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=nelsonluismussa"/>
 
