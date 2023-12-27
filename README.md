@@ -1,6 +1,7 @@
 # Hello, I'm Nelson Luís Mussa, a software developer and computer network engineer who creates programming and technology content! 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonluismussa&layout=compact)](https://github.com/nelsonluismussa/github-readme-stats&layout=compact)
-
+-->
 <p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development using Django to frontend development, <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>mid-level full stack developer</strong> focused on web development.
 </p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
